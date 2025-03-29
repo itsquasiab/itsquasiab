@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsquasi23
-- 👀 I’m interested in coding and exploring.
+- 👀 I’m interested in coding and exploring
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on my friends
 - 📫 How to reach me idk
