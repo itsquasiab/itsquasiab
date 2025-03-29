@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on my friends
 - 📫 How to reach me idk
-- 😄 Pronouns: any
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm just a normal guy
 
 <!---
