@@ -1,7 +1,7 @@
-# ItsQuasi
-- Minding my own business. :)
-- Probably having too much fun with it.
-- That's all about me.
+# itsquasi's official github profile
+minding my own business. :)
+probably having too much fun with it.
+that's all about me.
 <!--- - 👋 Hi, I’m @itsquasi23
 - 👀 I’m interested in coding and exploring
 - 🌱 I’m currently learning c++
