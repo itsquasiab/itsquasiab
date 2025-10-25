@@ -1,3 +1,6 @@
+/*Credit: https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb*/
+/*Thank for this code! I can get free orbs and stuffs now.*/
+
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
