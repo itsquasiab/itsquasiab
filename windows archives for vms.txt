@@ -1,0 +1,5 @@
+windows xp: https://archive.org/details/windows-xp-professional-x-64_202303
+windows vista: https://archive.org/details/windows-vista-ultimate-sp-2-x-86
+windows 7: https://archive.org/details/win-7-ultimate-64_bit
+windows 8: https://archive.org/details/windows-8-msdn-iso-files-en-de-ru-tr-x86-x64
+windows 8.1: https://archive.org/details/win-8.1-english_202301
