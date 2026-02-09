@@ -1,0 +1,5 @@
+ffmpeg -i input.mp3 -c:a libmp3lame -b:a 32k -ac 1 -ar 44100 -id3v2_version 3 output.mp3
+
+ffmpeg -i input.mp3 cover.png
+ffmpeg -i cover.png -vf scale=320:320 -compression_level 9 cover_320.png
+ffmpeg -i input.mp3 -i cover_320.png -c:a libmp3lame -b:a 32k -ac 1 -ar 44100 -c:v png -disposition:v attached_pic -id3v2_version 3 output.mp3
